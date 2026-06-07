@@ -1,0 +1,12 @@
+{
+  "name": "MangaLib Fixed",
+  "version": 1,
+  "sources": [
+    {
+      "name": "MangaLib",
+      "url": "https://mangalib.me",
+      "version": 10,
+      "source": "ru.mangalib/source.json"
+    }
+  ]
+}
